@@ -1,0 +1,25 @@
+{
+   "title":"[Momoduki Suzu] Summer Night Sun",
+   "description":"",
+   "author":"Momoduki Suzu",
+   "artist":"Momoduki Suzu",
+   "cover":"https://i.imgur.com/iY5KujM.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/8eWBjZq"
+         },
+         "last_updated":1624606143,
+         "title":"Summer Night Sun",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/oua8oZs"
+         },
+         "last_updated":1624606143,
+         "title":"Loving Sun",
+         "volume":"2"
+      }
+   }
+}

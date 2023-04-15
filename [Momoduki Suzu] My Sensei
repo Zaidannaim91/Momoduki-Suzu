@@ -1,0 +1,25 @@
+{
+   "title":"[Momoduki Suzu] My Sensei",
+   "description":"",
+   "author":"Momoduki Suzu",
+   "artist":"Momoduki Suzu",
+   "cover":"https://i.imgur.com/1kGKRIb.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/dzeb5gV"
+         },
+         "last_updated":1624606143,
+         "title":"My Sensei",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/xFcbgMx"
+         },
+         "last_updated":1624606143,
+         "title":"Sensei's Servant",
+         "volume":"2"
+      }
+   }
+}

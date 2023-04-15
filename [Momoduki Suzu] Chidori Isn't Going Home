@@ -1,0 +1,25 @@
+{
+   "title":"[Momoduki Suzu] Chidori Isn't Going Home",
+   "description":"",
+   "author":"Momoduki Suzu",
+   "artist":"Momoduki Suzu",
+   "cover":"https://i.imgur.com/R4l4Y3e.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/ZgBx6AD"
+         },
+         "last_updated":1624606143,
+         "title":"Chidori Isn't Going Home",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/NEkR2n4"
+         },
+         "last_updated":1624606143,
+         "title":"Welcome Home, Chidori",
+         "volume":"2"
+      }
+   }
+}
